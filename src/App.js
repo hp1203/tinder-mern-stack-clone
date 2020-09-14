@@ -8,9 +8,9 @@ function App() {
       {/* Header */}
       <Header />
 
-      {/* Tinder Cards */}
+      {/* TinderCards */}
 
-      {/* Swipe Buttons */}
+      {/* SwipeButtons */}
     </div>
   );
 }
